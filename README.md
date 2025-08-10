@@ -99,7 +99,7 @@ Features:
 ## 🤝 Connect With Me
 <p align="center">
   <a href="mailto:arunachalamparamesvaran@gmail.com"><img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/in/arunachalam-paramesvaran"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/arunachalam-paramesvaran-222376246/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 
