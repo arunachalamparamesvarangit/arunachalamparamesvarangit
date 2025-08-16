@@ -64,11 +64,7 @@
 <img src="https://img.shields.io/badge/BrowserStack-FF7F00?style=for-the-badge&logo=browserstack&logoColor=white" />
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 <img src="https://img.shields.io/badge/PIM%20Systems-00897B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Juspay-2E86C1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LotusPay-17A2B8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Rubix%20Data%20Platform-6C3483?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Unbxd-A93226?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Freshworks%20CRM-2ECC71?style=for-the-badge" />
+
 
 </p>
 
