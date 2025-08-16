@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Arunachalam Paramesvaran</h1>
-<h3 align="center">🚀 Senior QA Automation Engineer | Selenium | Cypress | Java | API | CI/CD | BDD | Agile</h3>
+<h3 align="center">🚀 Senior QA Automation Engineer | Selenium | Cypress | Java | Javascript | API | CI/CD | BDD | Agile</h3>
 
 <p align="center">
   <a href="mailto:arunachalamparamesvaran@gmail.com">
