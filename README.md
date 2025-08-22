@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Arunachalam Paramesvaran</h1>
-<h3 align="center">🚀 Senior QA Automation Engineer | Selenium | Cypress | Java | Javascript | API | CI/CD | BDD | Agile</h3>
+<h3 align="center">🚀 Senior QA Automation Engineer | Selenium | Cypress | Java | API | CI/CD | BDD | Agile</h3>
 
 <p align="center">
   <a href="mailto:arunachalamparamesvaran@gmail.com">
@@ -29,11 +29,10 @@
   
 <!-- Programming Languages -->
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
 
 <!-- Test Automation -->
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
 <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
 <img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logo=testng&logoColor=white" />
 
@@ -41,8 +40,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/REST%20Assured-005571?style=for-the-badge" />
 
-<!-- Performance Testing -->
-<img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
+
 
 <!-- CI/CD -->
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
