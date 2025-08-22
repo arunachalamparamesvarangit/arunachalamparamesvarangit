@@ -79,7 +79,7 @@
 ## 📂 Featured Projects
 
 ### [ArunFramework_Selenium](https://github.com/arunachalamparamesvarangit/ArunFramework_Selenium)
-A Java + Selenium + TestNG + Cucumber + POM + Data-Driven automation framework  
+A Java + Selenium + TestNG + Cucumber + POM  
 **Tech Stack:** Java, Selenium, TestNG, Cucumber, Maven, Log4j2, Extent Reports  
 Features:
 - Multi-browser support
